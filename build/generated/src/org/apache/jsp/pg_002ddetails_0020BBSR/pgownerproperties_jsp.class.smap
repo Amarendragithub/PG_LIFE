@@ -1,0 +1,24 @@
+SMAP
+pgownerproperties_jsp.java
+JSP
+*S JSP
+*F
++ 0 pgownerproperties.jsp
+pg-details BBSR/pgownerproperties.jsp
+*L
+5,2:45
+8,18:48
+25,40:66
+65:106,3
+66,2:109
+68:111,3
+69,46:114
+115,2:160,3
+117,6:166
+123:172,3
+124,3:175
+127:178,3
+128,8:181
+136:189,3
+137,162:192
+*E
